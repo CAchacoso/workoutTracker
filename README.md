@@ -39,7 +39,7 @@ Follow these steps to run the project locally:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/weekly-workout-planner.git
+git clone https://github.com/CAchacoso/weekly-workout-planner.git
 cd weekly-workout-planner
 ```
 
